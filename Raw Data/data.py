@@ -6,14 +6,14 @@ data=""
 
 USERNAME = []
 
-with open("C:\\Shoaib\\Database-Project\\Raw Data\\users.txt", 'r') as file:
+with open("Raw Data\\users.txt", 'r') as file:
     line = file.readline()[:-1]
     feilds = line
     line = file.readline()[:-1]
     while line != "":
         line = line.split(',')
-        data += "( " + line[0] + ","
-        for i in line[1:]:
+        data += "( "
+        for i in line:
             data+= "\"" + i + "\","
         data += " ),\n"
         USERNAME.append(line[0])
@@ -23,7 +23,7 @@ with open("C:\\Shoaib\\Database-Project\\Raw Data\\users.txt", 'r') as file:
 
 format = "INSERT INTO " + tablename + " ( " + feilds + " ) \n" + "Values " + data
 
-with open("C:\\Shoaib\\Database-Project\\Raw Data\\usersout.txt", 'w') as file:
+with open("usersout.txt", 'w') as file:
     file.write(format)
     file.close()
 
@@ -33,22 +33,24 @@ print(USERNAME)
 friends = []
 for i in range(20):
     while True:
-        x = random.randint(1, len(USERNAME))
-        y = random.randint(1, len(USERNAME))
+        x = random.randint(0, len(USERNAME)-1)
+        y = random.randint(0, len(USERNAME)-1)
         if x == y:
             continue
-        fnrd = {x,y}
+        fnrd = {USERNAME[x],USERNAME[y]}
         if fnrd not in friends:
             friends.append(fnrd)
             break
-    
 print("Friends list:",friends)
 
-with open("C:\\Shoaib\\Database-Project\\Raw Data\\frndsout.txt", 'w') as file:
+with open("frndsout.txt", 'w') as file:
     id = 0
     data = "INSERT INTO friends\nVALUES "
     for i in friends:
         i = tuple(i)
-        data += "(" + str(id)+","+ str(i[0])+","+ str(i[1])+"),\n"
+        data += "(" + str(id)+","+ "\"" + str(i[0]) + "\"" +","+ "\"" + str(i[1])+ "\"" +"),\n"
+        id+=1
     file.write(data)
     file.close()
+
+
