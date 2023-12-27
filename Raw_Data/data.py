@@ -6,7 +6,7 @@ data=""
 
 USERNAME = []
 
-with open("Raw Data\\users.txt", 'r') as file:
+with open("Raw_Data/users.txt", 'r') as file:
     line = file.readline()[:-1]
     feilds = line
     line = file.readline()[:-1]
@@ -53,4 +53,30 @@ with open("frndsout.txt", 'w') as file:
     file.write(data)
     file.close()
 
+
+
+
+
+friendsReq = []
+for i in range(20):
+    while True:
+        x = random.randint(0, len(USERNAME)-1)
+        y = random.randint(0, len(USERNAME)-1)
+        if x == y:
+            continue
+        fnrd = {USERNAME[x],USERNAME[y]}
+        if fnrd not in friends and fnrd not in friendsReq:
+            friendsReq.append(fnrd)
+            break
+print("FriendReq list:",friends)
+
+with open("frndsReqout.txt", 'w') as file:
+    id = 0
+    data = "INSERT INTO friendsReq\nVALUES "
+    for i in friendsReq:
+        i = tuple(i)
+        data += "(" + str(id)+","+ "\"" + str(i[0]) + "\"" +","+ "\"" + str(i[1])+ "\"" +"),\n"
+        id+=1
+    file.write(data)
+    file.close()
 
