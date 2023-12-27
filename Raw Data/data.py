@@ -6,19 +6,26 @@ data=""
 
 USERNAME = []
 
-with open("users.txt", 'r') as file:
-    line = file.readline()
+with open("C:\\Shoaib\\Database-Project\\Raw Data\\users.txt", 'r') as file:
+    line = file.readline()[:-1]
     feilds = line
-    line = file.readline()
+    line = file.readline()[:-1]
     while line != "":
-        data += "( " + line + " ),\n"
         line = line.split(',')
+        data += "( " + line[0] + ","
+        for i in line[1:]:
+            data+= "\"" + i + "\","
+        data += " ),\n"
         USERNAME.append(line[0])
-        line = file.readline()
+        line = file.readline()[:-1]
     file.close
 
 
 format = "INSERT INTO " + tablename + " ( " + feilds + " ) \n" + "Values " + data
+
+with open("C:\\Shoaib\\Database-Project\\Raw Data\\usersout.txt", 'w') as file:
+    file.write(format)
+    file.close()
 
 print(format)
 print(USERNAME)
@@ -36,3 +43,12 @@ for i in range(20):
             break
     
 print("Friends list:",friends)
+
+with open("C:\\Shoaib\\Database-Project\\Raw Data\\frndsout.txt", 'w') as file:
+    id = 0
+    data = "INSERT INTO friends\nVALUES "
+    for i in friends:
+        i = tuple(i)
+        data += "(" + str(id)+","+ str(i[0])+","+ str(i[1])+"),\n"
+    file.write(data)
+    file.close()
