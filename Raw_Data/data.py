@@ -3,7 +3,7 @@ databasename="HiveMind"
 tablename="users"
 feilds=""
 data=""
-
+# -----------------------------USERS---------------------------------
 USERNAME = []
 
 with open("Raw_Data/users.txt", 'r') as file:
@@ -29,7 +29,7 @@ with open("usersout.txt", 'w') as file:
 
 print(format)
 print(USERNAME)
-
+# ------------------------------FRIENDS-------------------------------------------------------------
 friends = []
 for i in range(20):
     while True:
@@ -43,6 +43,14 @@ for i in range(20):
             break
 print("Friends list:",friends)
 
+with open("friendsList.txt", "w") as f:
+    for i in friends:
+        for j in i:
+            f.write(j)
+            f.write(",")
+        f.write("\n")
+
+
 with open("frndsout.txt", 'w') as file:
     id = 0
     data = "INSERT INTO friends\nVALUES "
@@ -55,7 +63,7 @@ with open("frndsout.txt", 'w') as file:
 
 
 
-
+# -------------------------------------FRIEND REQUESTS----------------------------------------
 
 friendsReq = []
 for i in range(20):
@@ -80,3 +88,10 @@ with open("frndsReqout.txt", 'w') as file:
     file.write(data)
     file.close()
 
+
+
+# ----------------------------------MESSAGES---------------------------------------
+    
+# with open("messages.txt", "r") as f:
+#     # data = f.readlines()
+#     with open("./friendsList.txt", "r") as j:

@@ -1,0 +1,100 @@
+1,tguice1,mmcduffie3,Hey mmcduffie3,2023-01-15 09:30:00
+2,mmcduffie3,tguice1,Hi tguice1,2023-01-15 09:31:15
+3,tguice1,mmcduffie3,How are you today?,2023-01-15 09:32:30
+4,mmcduffie3,tguice1,I'm good, thanks! How about you?,2023-01-15 09:33:45
+5,tguice1,mmcduffie3,I'm doing well too, just a bit busy with work,2023-01-15 09:35:00
+6,mmcduffie3,tguice1,I understand, work can be hectic. Anything exciting happening?,2023-01-15 09:36:15
+7,tguice1,mmcduffie3,Not much, just the usual. How about you?,2023-01-15 09:37:30
+8,mmcduffie3,tguice1,Just the usual as well. Any plans for the weekend?,2023-01-15 09:38:45
+9,tguice1,mmcduffie3,Not yet, maybe just relaxing at home. What about you?,2023-01-15 09:40:00
+10,mmcduffie3,tguice1,I might catch up on some reading. Let me know if you want to do something together,2023-01-15 09:41:15
+11,tguice1,mmcduffie3,Sure, I'll let you know. Have a great day!,2023-01-15 09:42:30
+12,mmcduffie3,tguice1,You too, take care!,2023-01-15 09:43:45
+13,tguice1,mmcduffie3,Hey mmcduffie3, do you know any good movies playing this weekend?,2023-01-15 09:45:00
+14,mmcduffie3,tguice1,Not sure, but I can check. Any particular genre you're in the mood for?,2023-01-15 09:46:15
+15,tguice1,mmcduffie3,How about a comedy? Something light-hearted to unwind,2023-01-15 09:47:30
+16,mmcduffie3,tguice1,Sounds good! I'll find some options and let you know,2023-01-15 09:48:45
+17,tguice1,mmcduffie3,Thanks, mmcduffie3! You're a lifesaver,2023-01-15 09:50:00
+18,mmcduffie3,tguice1,No problem, always happy to help. Anything else on your mind?,2023-01-15 09:51:15
+19,tguice1,mmcduffie3,Not at the moment, just looking forward to the weekend. How about you?,2023-01-15 09:52:30
+20,mmcduffie3,tguice1,Same here. Let's make it a great weekend! Catch you later,2023-01-15 09:53:45
+21,kimlacke4,zfargiec,Hey zfargiec, how's it going?, 2023-02-08 03:00 PM
+22,zfargiec,kimlacke4,Hi kimlacke4! I'm doing well, thanks. How about you?, 2023-02-08 03:05 PM
+23,kimlacke4,zfargiec,I'm good too. Just finished a workout. Feeling energized!, 2023-02-08 03:10 PM
+24,zfargiec,kimlacke4,That's awesome! I need to get back into a fitness routine. Any tips?, 2023-02-08 03:15 PM
+25,kimlacke4,zfargiec,Sure! Start with something you enjoy, like hiking or cycling. Makes it more fun., 2023-02-08 03:20 PM
+26,zfargiec,kimlacke4,Good point! I used to enjoy hiking. I'll give it a try this weekend., 2023-02-08 03:25 PM
+27,kimlacke4,zfargiec,Great idea! Let me know how it goes. I might join you., 2023-02-08 03:30 PM
+28,zfargiec,kimlacke4,That would be fantastic! We can catch up and enjoy the outdoors., 2023-02-08 03:35 PM
+29,kimlacke4,zfargiec,Sounds like a plan. By the way, have you watched any good movies lately?, 2023-02-08 03:40 PM
+30,zfargiec,kimlacke4,Yes, I watched a sci-fi movie last night. It was mind-bending. Highly recommend!, 2023-02-08 03:45 PM
+31,kimlacke4,zfargiec,Nice! What's the title? I'm always up for a good sci-fi flick., 2023-02-08 03:50 PM
+32,zfargiec,kimlacke4,It's called "Parallel Realms." Trust me, you won't be disappointed., 2023-02-08 03:55 PM
+33,kimlacke4,zfargiec,Adding it to my watchlist. Thanks for the recommendation!, 2023-02-08 04:00 PM
+34,zfargiec,kimlacke4,You're welcome! Let me know how you find it. Anything exciting happening on your end?, 2023-02-08 04:05 PM
+35,kimlacke4,zfargiec,Not much, just work and the usual. Looking forward to the weekend though., 2023-02-08 04:10 PM
+36,zfargiec,kimlacke4,Weekends are the best! Do you have any plans?, 2023-02-08 04:15 PM
+37,kimlacke4,zfargiec,Thinking of trying a new recipe and maybe visiting an art gallery. How about you?, 2023-02-08 04:20 PM
+38,zfargiec,kimlacke4,Sounds delightful! I might check out a local music event. Should be fun., 2023-02-08 04:25 PM
+39,kimlacke4,zfargiec,Enjoy! Let's catch up soon. I need to get back to work now. Talk to you later!, 2023-02-08 04:30 PM
+40,zfargiec,kimlacke4,Sure thing! Take care and talk to you later, kimlacke4!, 2023-02-08 04:35 PM
+41,akhidra,rovillh,Hey rovillh! How have you been? It's been a while., 2023-03-20 02:00 PM
+42,rovillh,akhidra,Hey akhidra! I've been good, thanks. Busy with work and life. How about you?, 2023-03-20 02:05 PM
+43,akhidra,rovillh,I hear you. Work has been hectic, but I managed to squeeze in a short vacation recently., 2023-03-20 02:10 PM
+44,rovillh,akhidra,That sounds fantastic! Where did you go?, 2023-03-20 02:15 PM
+45,akhidra,rovillh,I went to the mountains. The scenery was breathtaking. I needed a break from the city hustle., 2023-03-20 02:20 PM
+46,rovillh,akhidra,Wow, that sounds like a dream! I could use a getaway like that. Any recommendations for a peaceful retreat?, 2023-03-20 02:25 PM
+47,akhidra,rovillh,Absolutely! I'd suggest a cozy cabin in the woods. Nature, tranquility, and no Wi-Fi – perfect escape!, 2023-03-20 02:30 PM
+48,rovillh,akhidra,That sounds amazing. I'll look into it. By the way, did you catch the latest movie everyone's talking about?, 2023-03-20 02:35 PM
+49,akhidra,rovillh,Not yet. What's the buzz? Is it worth watching?, 2023-03-20 02:40 PM
+50,rovillh,akhidra,It's called "Echoes of Time." A mind-bending thriller. You should definitely check it out., 2023-03-20 02:45 PM
+51,akhidra,rovillh,Sounds intriguing! I'll add it to my watchlist. Thanks for the recommendation., 2023-03-20 02:50 PM
+52,rovillh,akhidra,You're welcome! Let me know your thoughts once you watch it. Oh, and have you tried the new cafe downtown?, 2023-03-20 02:55 PM
+53,akhidra,rovillh,Not yet. Is it any good? I'm always up for trying new places., 2023-03-20 03:00 PM
+54,rovillh,akhidra,It's amazing! Great coffee and a cozy ambiance. We should go there together sometime., 2023-03-20 03:05 PM
+55,akhidra,rovillh,Sounds like a plan! How about this weekend? I could use some good coffee and company., 2023-03-20 03:10 PM
+56,rovillh,akhidra,Perfect! Saturday afternoon works for me. Looking forward to it., 2023-03-20 03:15 PM
+57,akhidra,rovillh,Great! On a different note, I've been thinking of starting a book club. Interested?, 2023-03-20 03:20 PM
+58,rovillh,akhidra,That's a fantastic idea! Count me in. I've been meaning to read more lately., 2023-03-20 03:25 PM
+59,akhidra,rovillh,Awesome! I'll gather some book options and share them with you. Let's make it a regular thing., 2023-03-20 03:30 PM
+60,rovillh,akhidra,Absolutely. Looking forward to it. Got to run now, but catch you later, akhidra!, 2023-03-20 03:35 PM
+61,Alex,Casey,Sure thing! Take care and talk to you soon, Casey!, 2023-03-20 03:40 PM
+62,Liam,Olivia,Hey Olivia! It's been ages. How have you been?, 2023-04-10 10:00 AM
+63,Olivia,Liam,Liam! I'm good, thanks. Life's been hectic, but I can't complain. How about you?, 2023-04-10 10:05 AM
+64,Liam,Olivia,I hear you. Work has been a rollercoaster, but I managed to sneak in a weekend getaway. Refreshed now., 2023-04-10 10:10 AM
+65,Olivia,Liam,That's awesome! Where did you go?, 2023-04-10 10:15 AM
+66,Liam,Olivia,I visited a coastal town. Sun, sand, and seafood – the perfect recipe for relaxation., 2023-04-10 10:20 AM
+67,Olivia,Liam,Jealous! I need a break like that. Any travel tips for a quick escape?, 2023-04-10 10:25 AM
+68,Liam,Olivia,Sure! Check out quaint bed and breakfasts. Less crowded than hotels, and you get a more local experience., 2023-04-10 10:30 AM
+69,Olivia,Liam,Nice suggestion! I'll look into it. By the way, did you see the latest exhibit at the art gallery?, 2023-04-10 10:35 AM
+70,Liam,Olivia,Not yet. What's on display? Anything intriguing?, 2023-04-10 10:40 AM
+71,Olivia,Liam,It's a mix of modern and abstract art. Quite thought-provoking. We should go together sometime., 2023-04-10 10:45 AM
+72,Liam,Olivia,Sounds like a plan! Let me know when you're free, and we'll make it an art day., 2023-04-10 10:50 AM
+73,Olivia,Liam,Absolutely! Oh, have you tried the new fusion restaurant downtown?, 2023-04-10 10:55 AM
+74,Liam,Olivia,Not yet. How's the food? I'm always up for culinary adventures., 2023-04-10 11:00 AM
+75,Olivia,Liam,It's delicious! The blend of flavors is unique. We should grab dinner there this week., 2023-04-10 11:05 AM
+76,Liam,Olivia,Sounds tempting! Let's do it. How about Thursday evening?, 2023-04-10 11:10 AM
+77,Olivia,Liam,Perfect! Thursday it is. On another note, did you hear about the book club starting in the neighborhood?, 2023-04-10 11:15 AM
+78,Liam,Olivia,Oh, that sounds interesting! I've been wanting to read more. Count me in!, 2023-04-10 11:20 AM
+79,Olivia,Liam,Great! I'll share the details and book options soon. It's going to be so much fun., 2023-04-10 11:25 AM
+80,Liam,Olivia,Can't wait! Let's make it a reading-filled week. Gotta run now, but catch you later, Olivia!, 2023-04-10 11:30 AM
+81,Olivia,Liam,Sure thing! Take care, Liam. Talk to you soon!, 2023-04-10 11:35 AM
+82,Liam,Olivia,Hey Olivia, quick question before you go. Any podcast recommendations?, 2023-04-11 09:30 AM
+83,Olivia,Liam,Absolutely! I've been hooked on "Mindful Musings" for insightful discussions. Check it out!, 2023-04-11 09:35 AM
+84,Liam,Olivia,Thanks! I'll give it a listen. By the way, have you tried that new fitness class everyone's raving about?, 2023-04-11 09:40 AM
+85,Olivia,Liam,Yes! It's intense but so worth it. Let me know if you want to join me next time., 2023-04-11 09:45 AM
+86,Liam,Olivia,Sounds challenging, but I'm up for it. Count me in for the next session!, 2023-04-11 09:50 AM
+87,Olivia,Liam,Perfect! We'll crush those workouts together. Oh, and don't forget to bring a water bottle!, 2023-04-11 09:55 AM
+88,Liam,Olivia,Noted! Hydration is key. I'll see you at the class. Gotta go now, but catch you later, Olivia!, 2023-04-11 10:00 AM
+89,Olivia,Liam,Sounds good, Liam! Take care and talk to you soon!, 2023-04-11 10:05 AM
+90,Liam,Olivia,Hey Olivia, quick update – tried that fusion restaurant last night. It was amazing!, 2023-04-12 08:30 AM
+91,Olivia,Liam,That's awesome! Which dishes did you try? I'm excited for our dinner on Thursday now., 2023-04-12 08:35 AM
+92,Liam,Olivia,The sushi rolls were outstanding. Can't wait for you to try them. Thursday can't come soon enough!, 2023-04-12 08:40 AM
+93,Olivia,Liam,You're making my taste buds jealous! Thursday it is. By the way, any plans for the weekend?, 2023-04-12 08:45 AM
+94,Liam,Olivia,Thinking of a movie night on Saturday. Got any film recommendations?, 2023-04-12 08:50 AM
+95,Olivia,Liam,How about "Stellar Dreams"? It's a sci-fi flick with a mind-bending plot. Perfect for a movie night!, 2023-04-12 08:55 AM
+96,Liam,Olivia,Sounds intriguing! I'll add it to the list. Movie night it is. Gotta run now, but catch you later, Olivia!, 2023-04-12 09:00 AM
+97,Olivia,Liam,Sure thing! Enjoy your day, Liam. Talk to you soon!, 2023-04-12 09:05 AM
+98,Liam,Olivia,Hey Olivia, quick update – tried that fusion restaurant last night. It was amazing!, 2023-04-13 08:30 AM
+99,Olivia,Liam,That's awesome! Which dishes did you try? I'm excited for our dinner on Thursday now., 2023-04-13 08:35 AM
+100,Liam,Olivia,The sushi rolls were outstanding. Can't wait for you to try them. Thursday can't come soon enough!, 2023-04
