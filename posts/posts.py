@@ -617,6 +617,72 @@ commentsdata = {
 
 
 }
+image_urls = [
+    "https://source.unsplash.com/800x600/?bedroom",
+    "https://source.unsplash.com/800x600/?jewelry",
+    "https://source.unsplash.com/800x600/?computer",
+    "https://source.unsplash.com/800x600/?beach",
+    "https://source.unsplash.com/800x600/?birthday",
+    "https://source.unsplash.com/500x500/?sunglasses",
+    "https://source.unsplash.com/800x600/?technology",
+    "https://unsplash.com/photos/long-coated-white-dog-pfNmcyaT_es",
+    "https://unsplash.com/photos/a-landscape-with-trees-and-grass-68Ln0Cj84QE",
+    "https://unsplash.com/photos/a-person-standing-in-the-middle-of-a-canyon-LHsmXVAnkyk",
+    "https://unsplash.com/photos/a-view-of-a-mountain-range-with-clouds-in-the-sky-IX7VX9KWOl8",
+    "https://unsplash.com/photos/a-large-building-with-a-lot-of-advertisements-on-it-N5NqaTQwbg8",
+    "https://unsplash.com/photos/a-woman-walking-across-a-street-next-to-tall-buildings-haggiX6dnpY",
+    "https://www.pexels.com/photo/monochrome-photo-of-people-crossing-a-bridge-5579045/",
+    "https://www.pexels.com/photo/black-and-white-photo-of-a-footbridge-17340547/",
+    "https://www.pexels.com/photo/brown-concrete-stairs-with-blue-metal-railings-13724295/",
+    "https://www.pexels.com/photo/cable-car-in-old-town-19177885/",
+    "https://www.pexels.com/photo/a-woman-in-white-long-sleeves-raising-hands-14465114/",
+    "https://www.pexels.com/photo/tower-bridge-and-river-thames-in-london-18903386/",
+    "https://www.pexels.com/photo/young-fashionable-woman-standing-on-the-sidewalk-with-a-cup-of-coffee-in-hand-19539371/",
+    "https://www.pexels.com/photo/top-view-shot-of-sea-waves-crashing-the-sandy-shore-15012299/",
+    "https://www.pexels.com/photo/people-on-a-street-with-umbrellas-19190086/",
+    "https://www.pexels.com/photo/tasty-breakfast-with-beverages-19090942/",
+    "https://www.pexels.com/photo/candle-stick-in-front-of-a-christmas-tree-19480569/",
+    "https://unsplash.com/photos/a-person-pouring-syrup-onto-a-plate-of-chicken-and-waffles-s9lu2uNwb7A",
+    "https://unsplash.com/photos/a-glass-of-wine-and-some-grapes-on-a-table-gtbkK8PHRtY",
+    "https://unsplash.com/photos/a-table-topped-with-lots-of-plates-of-food-rUhdUhwBe8A",
+    "https://www.pexels.com/photo/bouquet-of-wheat-on-a-grass-19520661/",
+    "https://www.pexels.com/photo/a-woman-sitting-on-a-boat-with-her-phone-19564568/",
+    "https://www.pexels.com/photo/motorboat-moored-near-ornamented-building-17077789/",
+    "https://www.pexels.com/photo/photo-of-a-young-woman-keeping-up-scarf-14844570/",
+    "https://www.pexels.com/photo/a-woman-wearing-a-brown-coat-and-brown-hat-14654512/",
+    "https://www.pexels.com/photo/sun-shinning-through-tree-leaves-17988291/",
+    "https://www.pexels.com/photo/aerial-view-of-an-abandoned-village-of-gamsutl-dagestan-russia-19561453/",
+    "https://www.pexels.com/photo/town-by-river-ganges-in-india-19511794/",
+    "https://www.pexels.com/photo/woman-holding-fabric-on-floor-10752108/",
+    "https://unsplash.com/photos/a-group-of-people-holding-signs-in-front-of-a-building--vTnlOJec84",
+    "https://unsplash.com/photos/brown-wooden-photo-frame-Ht76ryPF6lY",
+    "https://unsplash.com/photos/person-holding-curology-spray-bottle-VItxz6u036U",
+    "https://unsplash.com/photos/yellow-red-and-blue-fireworks-Dn7P1U26ZkE",
+    "https://unsplash.com/photos/woman-standing-selecting-clothes-knKm7u_7Ihw",
+    "https://unsplash.com/photos/a-person-laying-on-a-bed-with-a-laptop-j730eTMxDiw",
+    "https://unsplash.com/photos/assorted-color-shirt-lot-hang-on-rack-xXJ6utyoSw0",
+    "https://www.pexels.com/photo/blue-shade-painting-1762973/",
+    "https://www.pexels.com/photo/pink-and-blue-watercolor-painting-587958/",
+    "https://www.pexels.com/photo/photo-of-red-peonies-painting-1005711/",
+    "https://www.pexels.com/photo/silhouette-photography-of-forest-795693/",
+    "https://www.pexels.com/photo/photo-of-multicolored-illustration-2832382/",
+    "https://www.pexels.com/photo/white-2-storey-house-near-trees-1115804/",
+    "https://www.pexels.com/photo/high-rise-buildings-443383/",
+    "https://www.pexels.com/photo/low-angle-photo-of-flatiron-building-1123982/",
+    "https://www.pexels.com/photo/view-of-office-building-323772/",
+    "https://www.pexels.com/photo/aerial-photography-of-cars-on-the-road-1123972/",
+    "https://www.pexels.com/photo/blue-and-gray-high-rise-building-162031/",
+    "https://www.pexels.com/photo/gray-high-rise-buildings-936722/",
+    "https://www.pexels.com/photo/brown-wooden-house-on-edge-of-cliff-1028225/",
+    "https://www.pexels.com/photo/photo-of-suspension-bridge-under-cloudy-sky-2570208/",
+    "https://www.pexels.com/photo/sears-tower-usa-1722183/",
+    "https://www.pexels.com/photo/gray-and-brown-boat-traveling-on-man-made-river-586687/",
+    "https://www.pexels.com/photo/concrete-building-2628393/",
+    "https://unsplash.com/photos/group-of-people-raising-there-hands-in-concert-aWXVxy8BSzc",
+    "https://unsplash.com/photos/lighted-red-text-signage-1oKxSKSOowE",
+    "https://unsplash.com/photos/people-gathering-on-green-grass-field-during-daytime-FUmDe-Bx1LA",
+    "https://unsplash.com/photos/people-gathering-on-concert-during-daytime-SplXzxtv6AI"
+]
 
 with open("posts\\users.txt", "r") as file:
     data = file.readlines()
@@ -659,6 +725,11 @@ for i in range(len(captions)-1):
                 comments.append([friends[userId][c], i ,commentsdata[captions[i]][c]])
                 notifications.append([userId, f"{friends[userId][c]} commented on your post"])
 
+storyline="INSERT INTO stories ( StoryId, userID, imageURL, status)\nVALUES "
+
+for i in range(len(image_urls)-1):
+    userId= usernames[random.randint(1,len(usernames)-1)]
+    storyline += f"( {str(i)}, '{userId}', '{image_urls[i]}', 'availaible' ), \n"
 
 
 likeline="INSERT INTO likes ( likeId, userID, postID)\nVALUES "
@@ -681,3 +752,5 @@ with open("posts\\commentsOut.txt", "w") as file:
     file.write(commentline)
 with open("posts\\notifOut.txt", "w") as file:
     file.write(notifline)
+with open("posts\\storyOut.txt", "w") as file:
+    file.write(storyline)
