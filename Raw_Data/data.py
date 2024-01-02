@@ -15,6 +15,7 @@ with open("Raw_Data/users.txt", 'r') as file:
         data += "( "
         for i in line:
             data+= "\"" + i + "\","
+        data = data[:-1]
         data += " ),\n"
         USERNAME.append(line[0])
         line = file.readline()[:-1]
@@ -27,11 +28,9 @@ with open("usersout.txt", 'w') as file:
     file.write(format)
     file.close()
 
-print(format)
-print(USERNAME)
 # ------------------------------FRIENDS-------------------------------------------------------------
 friends = []
-for i in range(20):
+for i in range(3000):
     while True:
         x = random.randint(0, len(USERNAME)-1)
         y = random.randint(0, len(USERNAME)-1)
@@ -41,7 +40,7 @@ for i in range(20):
         if fnrd not in friends:
             friends.append(fnrd)
             break
-print("Friends list:",friends)
+
 
 with open("friendsList.txt", "w") as f:
     for i in friends:
@@ -66,7 +65,7 @@ with open("frndsout.txt", 'w') as file:
 # -------------------------------------FRIEND REQUESTS----------------------------------------
 
 friendsReq = []
-for i in range(20):
+for i in range(500):
     while True:
         x = random.randint(0, len(USERNAME)-1)
         y = random.randint(0, len(USERNAME)-1)
