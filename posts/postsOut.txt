@@ -1,5 +1,6 @@
 INSERT INTO posts ( postId, userID, imageURL, caption)
-VALUES ( 0, 'Bennett', , 'Just had the best cup of coffee ever! #coffeelover'), 
+VALUES 
+( 0, 'Bennett', , 'Just had the best cup of coffee ever! #coffeelover'), 
 ( 1, 'George', , 'Thinking about starting a new hobby. Any suggestions?'), 
 ( 2, 'Darrin', , 'Lost my keys again. How does this keep happening?'), 
 ( 3, 'Delta', , 'Movie night with friends was a blast! Recommend any good films?'), 
@@ -13,7 +14,7 @@ VALUES ( 0, 'Bennett', , 'Just had the best cup of coffee ever! #coffeelover'),
 ( 11, 'Dallin', , 'Found a hidden gem of a restaurant. Highly recommend!'), 
 ( 12, 'Molly', , 'Saw the most beautiful sunset. Nature is amazing.'), 
 ( 13, 'Danny.Kuhlman', , 'Planning a weekend getaway. Any travel tips?'), 
-( 14, 'Ralph', , 'Learning a new language. ¡Hola, amigos!'), 
+( 14, 'Ralph', , 'Learning a new language. ï¿½Hola, amigos!'), 
 ( 15, 'Ocie_Koss', , 'Attended a virtual conference today. So much to absorb!'), 
 ( 16, 'Sherman.O'Conner', , 'Visited a museum and learned some fascinating history.'), 
 ( 17, 'Ariane', , 'Finally organized my closet. It's a small victory!'), 

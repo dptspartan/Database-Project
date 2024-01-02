@@ -1,5 +1,6 @@
 INSERT INTO likes ( likeId, userID, postID)
-VALUES ( 0, 'Kenya', 0), 
+VALUES 
+( 0, 'Kenya', 0), 
 ( 1, 'Natalia', 0), 
 ( 2, 'Adalberto', 0), 
 ( 3, 'Josiane_Labadie', 0), 
