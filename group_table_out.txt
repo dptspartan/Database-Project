@@ -3,4 +3,4 @@ VALUES (1, 'Group-1', 'tguice1'),
 (2, 'Group-2', 'cmaccostye6'), 
 (3, 'Group-3', 'tguice1'), 
 (4, 'Group-4', 'btindle9'), 
-(5, 'Group-5', 'jmuffeng'), 
+(5, 'Group-5', 'jmuffeng')

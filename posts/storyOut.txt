@@ -61,4 +61,4 @@ VALUES ( 0, 'Milan', 'https://source.unsplash.com/800x600/?bedroom', 'availaible
 ( 59, 'Trent_Stanton', 'https://www.pexels.com/photo/concrete-building-2628393/', 'availaible' ), 
 ( 60, 'Dario', 'https://unsplash.com/photos/group-of-people-raising-there-hands-in-concert-aWXVxy8BSzc', 'availaible' ), 
 ( 61, 'Sierra.Runte', 'https://unsplash.com/photos/lighted-red-text-signage-1oKxSKSOowE', 'availaible' ), 
-( 62, 'Bartholome_Kutch', 'https://unsplash.com/photos/people-gathering-on-green-grass-field-during-daytime-FUmDe-Bx1LA', 'availaible' ), 
+( 62, 'Bartholome_Kutch', 'https://unsplash.com/photos/people-gathering-on-green-grass-field-during-daytime-FUmDe-Bx1LA', 'availaible' ) 

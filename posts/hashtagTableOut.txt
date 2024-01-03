@@ -30,4 +30,4 @@ VALUES (1, 'FitnessJourney'),
 (29, 'GameNightFun'), 
 (30, 'ArtGalleryExploration'), 
 (31, 'DessertExperiments'), 
-(32, 'PhotographyWorkshop'), 
+(32, 'PhotographyWorkshop')

@@ -221,4 +221,4 @@ VALUES
 ( 218, 'Kassandra.Ondricka', , 'Attended a live street art performance. Spray paint, creativity, and urban expression.'), 
 ( 219, 'Spencer.Dibbert', , 'Hosted a DIY tie-dye party with sunset hues. Vibrant swirls and summer vibes.'), 
 ( 220, 'Alyson', , 'Went on a nighttime zip-lining adventure. Thrills under the moonlit sky.'), 
-( 221, 'Haylee', , 'Took a pottery class by the river. Creating vessels, connecting with nature.'), 
+( 221, 'Haylee', , 'Took a pottery class by the river. Creating vessels, connecting with nature.')

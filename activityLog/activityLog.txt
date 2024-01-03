@@ -1919,4 +1919,4 @@ INSERT INTO activityLog( activityId, userName, activitySummary )
 ( 1917, 'Sylvester.Rodriguez', 'You made a post'), 
 ( 1918, 'Katharina_Kozey', 'You liked a post'), 
 ( 1919, 'Sylvester', 'You made a comment'), 
-( 1920, 'Rebekah', 'You liked a post'), 
+( 1920, 'Rebekah', 'You liked a post')

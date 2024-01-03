@@ -298,4 +298,4 @@ VALUES
 ( 295, 'Jon_Howe', 45, 'Hiking highs: the fresh air, the exercise, and that view!'), 
 ( 296, 'Jamey.Greenfelder', 46, 'Photography workshops are a great investment in skill and artistry!'), 
 ( 297, 'Heber.O'Kon', 46, 'Capturing moments in pixels�preserving memories in the best way.'), 
-( 298, 'Nathan', 46, 'What photography tips did you learn at the workshop?'), 
+( 298, 'Nathan', 46, 'What photography tips did you learn at the workshop?')

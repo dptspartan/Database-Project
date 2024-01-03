@@ -498,4 +498,4 @@ VALUES (0,"Rickey_Kuhn","Whitney_Jaskolski"),
 (496,"Aiden","Velva"),
 (497,"Malachi","Demarco"),
 (498,"Bart","Kristy.Schuster"),
-(499,"Luella_Hintz","Lorena.Jones"),
+(499,"Luella_Hintz","Lorena.Jones")
