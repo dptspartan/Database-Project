@@ -53,15 +53,16 @@
 line='INSERT INTO messages( messageId,senderId, receiberId,message,time)\n VALUES '
 with open("messages.txt", 'r') as file:
     data = file.readlines()
-
+id = 0
 for i in data:
     splitted = i.split(",")
-    line += f"( {splitted[0]}, "
+    line += f"( {id}, "
 
     line += f"'{splitted[1]}', "
     line += f"'{splitted[2]}', "
     line += f"'{','.join(splitted[3:-1])}', "
     line +=f"'{splitted[-1][:-1]}' ) \n ,"
+    id+=1
 
 with open("messagesOut.txt", "w") as file:
     file.write(line)
